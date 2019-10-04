@@ -2,7 +2,7 @@
 
 
 ### Paper
-![Chengyu Cloze Test](https://www.aclweb.org/anthology/W18-0516.pdf)
+[Chengyu Cloze Test](https://www.aclweb.org/anthology/W18-0516.pdf)
 
 ### Data
 
